@@ -19,3 +19,7 @@ Option to keep only the header of the first file. (useful for csv files)
 ### semicolonToCommaSeperated.py
 Replaces all commas with a dot '.'
 Replaces all semicolons with a comma ','
+
+### removeDouble.py
+Takes a file with a list of words
+Removes all instances of words which occur more than once
